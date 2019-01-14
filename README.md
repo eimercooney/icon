@@ -1,3 +1,3 @@
 # icons
 
-https://eimercooney.github.io/icons/icons.html 
+https://eimercooney.github.io/github/ icons/icons.html 
