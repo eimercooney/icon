@@ -6,7 +6,6 @@ body {
     padding: 0;
     font-family: 'Righteous', cursive;
     background-color: dimgrey;
-    background-repeat: repeat-x;
     background-position: right top;
     background-size: auto;
     
@@ -112,11 +111,11 @@ nav ul a:hover {
 
 .drinks{
    
-    background-color: dimgray;
+    background-color: transparent;
     background-size: 50%;
         
     background-position: center;
-    margin-top: 10;
+    margin-top: 10px;
 
 }
 
@@ -320,7 +319,7 @@ font-size: 1.2em;
     z-index: 1;
 }
 
-.th-img {
+.th-img { 
     grid-area: th-img;
     grid-row: 6;
     margin-left: 5%;
@@ -421,7 +420,7 @@ font-size: 1.2em;
 .colour8 {
     grid-area: colour8;
     background-color: #414344;
-    height: 70vh;
+    height: 100vh;
     grid-row: 9;
     z-index: 1;
 }
@@ -468,12 +467,12 @@ font-size: 1.2em;
 .em-txt p {
     font-size: 1.5em;
     max-width: 600px;
-    margin-top:;
+    margin-top: 5%;
 }
 
 .colour10 {
     grid-area: colour10;
-    background-color: #4D87A3;
+    background-color: #414344;
     height: 70vh;
     grid-row: 11;
     z-index: 1;
@@ -492,13 +491,13 @@ font-size: 1.2em;
 }
 
 .ic-txt p {
-     font-size: 1.5em;
+    font-size: 1.5em;
     max-width: 600px;
     margin-top:;
 }
 .colour8 {
     grid-area: colour8;
-    background-color: #414344;
+    background-color: #4D87A3;
     height: 70vh;
     grid-row: 9;
     z-index: 1;
